@@ -1,4 +1,4 @@
-# Este proyecto, como su nombre lo indica, viene del curso de POO de PHP de platzi 
+# Este proyecto, viene del curso de POO de PHP de platzi 
 
 Para descargar y ejecutar este proyecto, debes clonar el repositorio en tu maquina local y luego encender tu servidor apache, puede ser XAMPP, WAMPP o cualquier otro que exista allá fuera. 
 
